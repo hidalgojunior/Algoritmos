@@ -20,6 +20,12 @@ Os conteúdos aqui apresentados são integrantes do componente de Programação 
 
 ### Estrutrura Condicional (SE... ENTÃO... SENÃO)
 
+[Exercício Proposto:](https://github.com/hidalgojunior/Algoritmos/blob/main/Decisao/Exercicio_Proposto.por) Crie um algoritmo que receba o nome do aluno, quatro notas e calcule a média.
+
+Se a média >= 7, exiba a mensagem **nome**, você foi aprovado com media XXX. Caso tenha média entre 5 e 7, exiba que o aluno está de recuperação e informe a media do aluno e também uma nota substitutiva que substituirá a primeira nota, menor que ela, recebida. Depois, realize novamente a média e exiba, aprovado ou reprovado, caso nova média >= 7.
+
+Caso seja menor, exiba aluno reprovado.
+
 ### Estrutura Condiciona (Escolha... caso)
 
 ### Estrutura de Repetição (Para)
